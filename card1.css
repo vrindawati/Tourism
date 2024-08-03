@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.h-center{
+    text-align:center;
+    background-image: url("https://images.unsplash.com/photo-1499678329028-101435549a4e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTN8fHxlbnwwfHx8fHw%3D");
+    height: 100vh;
+    background-size: cover;
+    height: 100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content: end;
+}
+.main-heading{
+    color:rgb(49, 9, 9);
+    font-family:"lobster";
+}
+.para{
+    color:black;
+}
+.cardd{
+    background-color:rgb(202, 54, 54);
+    border-radius: 8px 8px 0px 0px;
+}
+.button-style{
+    border-radius:15px;
+    background-color: rgb(19, 63, 78);
+    border-width: 0px;
+    padding: 10px;
+    margin: 10px;
+    color:white;
+}
